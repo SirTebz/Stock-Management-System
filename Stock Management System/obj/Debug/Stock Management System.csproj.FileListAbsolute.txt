@@ -1,0 +1,8 @@
+C:\Users\mokgo\Desktop\CSharp\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+C:\Users\mokgo\Desktop\CSharp\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+C:\Users\mokgo\Desktop\CSharp\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+C:\Users\mokgo\Desktop\CSharp\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csproj.AssemblyReference.cache
+C:\Users\mokgo\Desktop\CSharp\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\mokgo\Desktop\CSharp\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csproj.CoreCompileInputs.cache
+C:\Users\mokgo\Desktop\CSharp\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+C:\Users\mokgo\Desktop\CSharp\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
